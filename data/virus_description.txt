@@ -1,0 +1,453 @@
+Taxid	Virus Name	Parent Viral Name	Baltimore	Family	Host
+11788	Abelson murine leukemia virus	Abelson murine leukemia virus	ssRNA-RT	Retroviridae	vertebrates
+648242	Adeno-associated virus 2 (isolate Srivastava/1982)	Adeno-associated virus 2	ssDNA	Parvoviridae	vertebrates
+10497	African swine fever virus	African swine fever virus	dsDNA	Asfarviridae	"invertebrates,vertebrates"
+10500	African swine fever virus (isolate Tick/Malawi/Lil 20-1/1983)	African swine fever virus	dsDNA	Asfarviridae	"invertebrates,vertebrates"
+561444	African swine fever virus (isolate Warthog/Namibia/Wart80/1980)	African swine fever virus	dsDNA	Asfarviridae	"invertebrates,vertebrates"
+10498	African swine fever virus (strain BA71V)	African swine fever virus	dsDNA	Asfarviridae	"invertebrates,vertebrates"
+650132	Aichi virus A846/88	Aichi virus	(+)ssRNA	Picornaviridae	"human,vertebrates"
+172148	Alkhumra hemorrhagic fever virus	Alkhumra hemorrhagic fever virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+337042	Alphapapillomavirus 7	Alphapapillomavirus 7	dsDNA	Papillomaviridae	"human,vertebrates"
+337041	Alphapapillomavirus 9	Alphapapillomavirus 9	dsDNA	Papillomaviridae	human
+85618	Ateline gammaherpesvirus 3	Ateline gammaherpesvirus 3	dsDNA	Herpesviridae	vertebrates
+46015	Autographa californica nucleopolyhedrovirus	Autographa californica nucleopolyhedrovirus	dsDNA	Baculoviridae	invertebrates
+11862	Avian erythroblastosis virus (strain Sloan-Kettering)	Avian erythroblastosis virus	ssRNA-RT	Retroviridae	vertebrates
+11122	Avian infectious bronchitis virus (strain Beaudette)	Avian infectious bronchitis virus	(+)ssRNA	Coronaviridae	"human,vertebrates"
+644440	Infectious bursal disease virus chicken/UK/UK661/1989	Infectious bursal disease virus	dsRNA	Birnaviridae	vertebrates
+269446	Avian leukosis virus RSA (RSV-SRA)	Avian leukosis virus	ssRNA-RT	Retroviridae	vertebrates
+11866	Avian myeloblastosis virus	Avian myeloblastosis virus	ssRNA-RT	Retroviridae	vertebrates
+354090	Avian sarcoma virus (STRAIN UR2)	Avian sarcoma virus	ssRNA-RT	Retroviridae	vertebrates
+694007	Bat coronavirus HKU4	Bat coronavirus 	(+)ssRNA	Coronaviridae	vertebrates
+694008	Bat coronavirus HKU5	Bat coronavirus 	(+)ssRNA	Coronaviridae	vertebrates
+694006	Bat coronavirus HKU9	Bat coronavirus 	(+)ssRNA	Coronaviridae	vertebrates
+40051	Bluetongue virus	Bluetongue virus	dsRNA	Reoviridae	"invertebrates,vertebrates"
+10900	Bluetongue virus (serotype 10 / isolate USA)	Bluetongue virus	dsRNA	Reoviridae	"invertebrates,vertebrates"
+928296	Borna disease virus (strain V)	Borna disease virus 	(-)ssRNA	Bornaviridae	vertebrates
+10320	Bovine alphaherpesvirus 1	Bovine alphaherpesvirus 1	dsDNA	Herpesviridae	vertebrates
+10323	Bovine herpesvirus 1.1 (strain Cooper)	Bovine herpesvirus 1.1	dsDNA	Herpesviridae	vertebrates
+31518	Bovine herpesvirus 1.1 (strain Jura)	Bovine herpesvirus 1.1	dsDNA	Herpesviridae	vertebrates
+10324	Bovine herpesvirus 1.1 (strain P8-2)	Bovine herpesvirus 1.1	dsDNA	Herpesviridae	vertebrates
+10385	Bovine herpesvirus 4	Bovine herpesvirus 4	dsDNA	Herpesviridae	vertebrates
+79889	Bovine herpesvirus 1.1	Bovine herpesvirus 1.1	dsDNA	Herpesviridae	vertebrates
+417296	Bovine immunodeficiency virus (isolate R29)	Bovine immunodeficiency virus	ssRNA-RT	Retroviridae	vertebrates
+11901	Bovine leukemia virus	Bovine leukemia virus	ssRNA-RT	Retroviridae	vertebrates
+10559	Deltapapillomavirus 4	Deltapapillomavirus 4	dsDNA	Papillomaviridae	vertebrates
+337052	Deltapapillomavirus 4	Deltapapillomavirus 4	dsDNA	Papillomaviridae	vertebrates
+10560	Bovine papillomavirus type 2	Bovine papillomavirus type 2	dsDNA	Papillomaviridae	vertebrates
+11099	Bovine viral diarrhea virus 1	Bovine viral diarrhea virus 1	(+)ssRNA	Flaviviridae	vertebrates
+11100	Bovine viral diarrhea virus (isolate NADL)	Bovine viral diarrhea virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+54315	Bovine viral diarrhea virus 2	Bovine viral diarrhea virus 2	(+)ssRNA	Flaviviridae	"human,vertebrates"
+35304	Bunyamwera virus	Bunyamwera virus	(-)ssRNA	Bunyaviridae	"human,invertebrates,vertebrates"
+11232	Canine distemper virus	Canine distemper virus	(-)ssRNA	Paramyxoviridae	vertebrates
+11233	Canine distemper virus (strain Onderstepoort)	Canine distemper virus	(-)ssRNA	Paramyxoviridae	vertebrates
+11660	Caprine arthritis encephalitis virus	Caprine arthritis encephalitis virus	ssRNA-RT	Retroviridae	vertebrates
+11273	Chandipura virus (strain I653514)	Chandipura virus 	(-)ssRNA	Rhabdoviridae	"human,invertebrates,vertebrates"
+73475	Chicken anemia virus (isolate Germany Cuxhaven-1)	Chicken anemia virus	(-)ssRNA	Anelloviridae	"human,vertebrates"
+37124	Chikungunya virus	Chikungunya virus	(+)ssRNA	Togaviridae	"human,invertebrates,vertebrates"
+11096	Classical swine fever virus	Classical swine fever virus	(+)ssRNA	Flaviviridae	vertebrates
+11097	Classical swine fever virus (strain Alfort)	Classical swine fever virus	(+)ssRNA	Flaviviridae	vertebrates
+11098	Classical swine fever virus (strain Brescia)	Classical swine fever virus	(+)ssRNA	Flaviviridae	vertebrates
+358769	Classical swine fever virus - Alfort/187	Classical swine fever virus	(+)ssRNA	Flaviviridae	vertebrates
+31553	Papillomavirus sylvilagi (STRAIN KANSAS)	Papillomavirus sylvilagi	dsDNA	Papillomaviridae	vertebrates
+10243	Cowpox virus	Cowpox virus	dsDNA	Poxviridae	"human,vertebrates"
+265872	Cowpox virus (Brighton Red)	Cowpox virus	dsDNA	Poxviridae	"human,vertebrates"
+103904	Coxsackievirus B3 (strain Woodruff)	Coxsackievirus B3	(+)ssRNA	Picornaviridae	"human,vertebrates"
+1980519	Crimean-Congo hemorrhagic fever orthonairovirus	Crimean-Congo hemorrhagic fever orthonairovirus	(-)ssRNA	Nairoviridae	"human,invertebrates,vertebrates"
+652961	Crimean-Congo hemorrhagic fever virus (strain Nigeria/IbAr10200/1970)	Crimean-Congo hemorrhagic fever virus	(-)ssRNA	Nairoviridae	"human,invertebrates,vertebrates"
+11053	Dengue virus 1	Dengue virus 1	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11059	Dengue virus 1 (strain Nauru/West Pac/1974)	Dengue virus 1	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11060	Dengue virus 2	Dengue virus 2	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11065	Dengue virus 2 (strain Thailand/NGS-C/1944)	Dengue virus 2	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11069	Dengue virus 3	Dengue virus 3	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+408870	Dengue virus 3 Philippines/H87/1956	Dengue virus 3	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11070	Dengue virus 4	Dengue virus 4	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+408871	Dengue virus 4 Dominica/814669/1981	Dengue virus 4	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+408686	Dengue virus 4 Philippines/H241/1956	Dengue virus 4	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+31635	Dengue virus 2 (strain 16681-PDK53)	Dengue virus 2	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+31634	Dengue virus 2 (strain Thailand/16681/1984)	Dengue virus 2	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+12643	Ectromelia virus	Ectromelia virus	dsDNA	Poxviridae	"human,vertebrates"
+265874	Ectromelia virus (strain Moscow)	Ectromelia virus	dsDNA	Poxviridae	"human,vertebrates"
+654902	Elephantid herpesvirus 1 (isolate Asian elephant/Berlin/Kiba/1998)	Elephantid herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+12104	Encephalomyocarditis virus	Encephalomyocarditis virus	(+)ssRNA	Picornaviridae	"human,vertebrates"
+82830	Epstein-Barr virus (strain AG876)	Epstein-Barr virus	dsDNA	Herpesviridae	"human,vertebrates"
+12509	Human herpesvirus 4 type 2	Epstein-Barr virus	dsDNA	Herpesviridae	"human,vertebrates"
+10326	Equid alphaherpesvirus 1	Equid alphaherpesvirus 1	dsDNA	Herpesviridae	vertebrates
+299386	Equine arteritis virus Bucyrus	Equine arteritis virus	(+)ssRNA	Arteriviridae	vertebrates
+10329	Equine herpesvirus 1 (strain Kentucky A)	Equine herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+82831	Equine herpesvirus 2 (strain 86/87)	Equine herpesvirus 2	dsDNA	Herpesviridae	vertebrates
+31520	Equine herpesvirus 1 (strain AB4P)	Equine herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+11665	Equine infectious anemia virus	Equine infectious anemia virus	ssRNA-RT	Retroviridae	vertebrates
+31675	Equine infectious anemia virus (clone CL22)	Equine infectious anemia virus	ssRNA-RT	Retroviridae	vertebrates
+11670	Equine infectious anemia virus (isolate 1369)	Equine infectious anemia virus	ssRNA-RT	Retroviridae	vertebrates
+11673	Feline immunodeficiency virus	Feline immunodeficiency virus	ssRNA-RT	Retroviridae	vertebrates
+12118	Foot-and-mouth disease virus - type O	Foot-and-mouth disease virus	(+)ssRNA	Picornaviridae	vertebrates
+10553	Fowl adenovirus A serotype 1 (strain CELO / Phelps)	Fowl adenovirus A serotype 1	dsDNA	Adenoviridae	vertebrates
+928301	Fowlpox virus (strain NVSL)	Fowlpox virus 	dsDNA	Poxviridae	vertebrates
+11797	Friend murine leukemia virus (isolate FB29)	Friend murine leukemia virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+10390	Gallid alphaherpesvirus 2	Gallid alphaherpesvirus 2	dsDNA	Herpesviridae	vertebrates
+10389	Gallid herpesvirus 2 (strain Chicken/Md5/ATCC VR-987)	Gallid herpesvirus 2	dsDNA	Herpesviridae	vertebrates
+1980471	Hantaan orthohantavirus	Hantaan orthohantavirus	(-)ssRNA	Hantaviridae	"human,vertebrates"
+63330	Hendra virus	Hendra virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+928303	Hendra virus (isolate Horse/Autralia/Hendra/1994)	Hendra virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+480116	Hepatitis B virus genotype A2 subtype adw2 (strain Rutter 1979)	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+489460	Hepatitis B virus genotype B	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+489466	Hepatitis B virus genotype C	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+928302	Hepatitis B virus genotype C subtype ayr	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+10419	Hepatitis B virus genotype D subtype adw (isolate United Kingdom/adyw/1979)	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+489488	Hepatitis B virus genotype D subtype ayw (isolate Australia/AustKW/1991)	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+490133	Hepatitis B virus genotype D subtype ayw (isolate France/Tiollais/1979)	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+106820	Hepatitis B virus subtype adr	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+10408	Hepatitis B virus subtype adw2	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+11103	Hepatitis C virus	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+329389	Hepatitis C virus (isolate Glasgow)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+41856	Hepatitis C virus genotype 1	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+11104	Hepatitis C virus genotype 1a (isolate 1)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+11108	Hepatitis C virus (isolate H)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+11105	Hepatitis C virus genotype 1b (isolate BK)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+333284	Hepatitis C virus genotype 1b (isolate Con1)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+421877	Hepatitis C virus genotype 1b (isolate HC-J1) (HCV)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+421879	Hepatitis C virus genotype 1b (isolate HCR6)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+11116	Hepatitis C virus genotype 1b (isolate Japanese)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+31645	Hepatitis C virus genotype 1b (isolate Taiwan)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+420174	Hepatitis C virus genotype 1b (strain HC-J4) (HCV)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+11113	Hepatitis C virus genotype 2a (isolate HC-J6)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+356411	Hepatitis C virus genotype 2a (isolate JFH-1)	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+31647	Hepatitis C virus subtype 1b	Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+31762	Hepatitis delta virus (isolate D380)	Hepatitis delta virus	(-)ssRNA	Riboviria	"human,vertebrates"
+652674	Hepatitis E virus (isolate Hetian)	Hepatitis E virus	(+)ssRNA	Hepeviridae	"human,vertebrates"
+31767	Hepatitis E virus genotype 1 (isolate Human/Burma)	Hepatitis E virus	(+)ssRNA	Hepeviridae	"human,vertebrates"
+512346	Hepatitis E virus genotype 1 (isolate human/India/Hyderabad)	Hepatitis E virus	(+)ssRNA	Hepeviridae	"human,vertebrates"
+31768	Hepatitis E virus genotype 2 (isolate Human/Mexico)	Hepatitis E virus	(+)ssRNA	Hepeviridae	"human,vertebrates"
+512345	Hepatitis E virus genotype 3 (isolate swine/United States/swUS1)	Hepatitis E virus	(+)ssRNA	Hepeviridae	"human,vertebrates"
+12475	Hepatitis delta virus	Hepatitis delta virus	(-)ssRNA	Riboviria	"human,vertebrates"
+694009	Human SARS coronavirus	SARS-CoV-1	(+)ssRNA	Coronaviridae	"human,vertebrates"
+11908	Human T-cell leukemia virus 1	Human T-cell leukemia virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+39015	Human T-cell leukemia virus 1 (african isolate)	Human T-cell leukemia virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11927	Human T-cell leukemia virus 1 (isolate Caribbea HS-35 subtype A)	Human T-cell leukemia virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+402046	Human T-cell leukemia virus 1 (isolate Mel 15)	Human T-cell leukemia virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11926	Human T-cell leukemia virus 1 (strain Japan ATK-1 subtype A)	Human T-cell leukemia virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11909	Human T-cell leukemia virus 2	Human T-cell leukemia virus 2	ssRNA-RT	Retroviridae	"human,vertebrates"
+406769	Human T-cell leukemia virus 3 (strain Pyl43)	Human T-cell leukemia virus 3	ssRNA-RT	Retroviridae	"human,vertebrates"
+10533	Human adenovirus 1	Human adenovirus C	dsDNA	Adenoviridae	"human,vertebrates"
+28282	Human adenovirus 12	Human adenovirus A	dsDNA	Adenoviridae	"human,vertebrates"
+46922	Human adenovirus 17	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+10528	Human adenovirus 18	Human adenovirus A	dsDNA	Adenoviridae	"human,vertebrates"
+28278	Human adenovirus 19	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+10515	Human adenovirus 2	Human adenovirus C	dsDNA	Adenoviridae	"human,vertebrates"
+46925	Human adenovirus 23	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+46926	Human adenovirus 24	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+46930	Human adenovirus 28	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+46932	Human adenovirus 30	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+10529	Human adenovirus 31	Human adenovirus A	dsDNA	Adenoviridae	"human,vertebrates"
+46936	Human adenovirus 36	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+52275	Human adenovirus 37	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+46935	Human adenovirus 39	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+28284	Human adenovirus 40	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+10524	Human adenovirus 41	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+46938	Human adenovirus 43	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+46942	Human adenovirus 47	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+28285	Human adenovirus 5	Human adenovirus C	dsDNA	Adenoviridae	"human,vertebrates"
+245072	Human adenovirus 51	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+714978	Human adenovirus 55	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+980087	Human adenovirus 58	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+10519	Human adenovirus 7	Human adenovirus B	dsDNA	Adenoviridae	"human,vertebrates"
+10527	Human adenovirus 9	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+129875	Human adenovirus A	Human adenovirus A	dsDNA	Adenoviridae	"human,vertebrates"
+45659	Human adenovirus B serotype 3	Human adenovirus B	dsDNA	Adenoviridae	"human,vertebrates"
+129951	Human adenovirus C	Human adenovirus C	dsDNA	Adenoviridae	"human,vertebrates"
+130310	Human adenovirus D	Human adenovirus D	dsDNA	Adenoviridae	"human,vertebrates"
+130308	Human adenovirus E	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+28280	Human adenovirus E4	Human adenovirus E	dsDNA	Adenoviridae	"human,vertebrates"
+946522	Human alphaherpesvirus 1 strain RH2	Human alphaherpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+1235996	Human betacoronavirus 2c EMC/2012	Human betacoronavirus 2c	(+)ssRNA	Coronaviridae	human
+122928	Human calicivirus genogroup 1	Human calicivirus 	(+)ssRNA	Caliciviridae	"human,vertebrates"
+11137	Human coronavirus 229E	HCoV-229E	(+)ssRNA	Coronaviridae	human
+277944	Human coronavirus NL63	HCoV-NL63	(+)ssRNA	Coronaviridae	human
+31631	Human coronavirus OC43	HCoV-OC43	(+)ssRNA	Coronaviridae	human
+295027	Human cytomegalovirus (strain Merlin)	Human cytomegalovirus	dsDNA	Herpesviridae	human
+10363	Human cytomegalovirus (strain Towne)	Human cytomegalovirus	dsDNA	Herpesviridae	human
+46018	Echovirus E7	Echovirus E7	(+)ssRNA	Picornaviridae	human
+103922	Human enterovirus 71 (strain 7423/MS/87)	Human enterovirus 71	(+)ssRNA	Picornaviridae	human
+138950	Enterovirus C	Enterovirus C	(+)ssRNA	Picornaviridae	human
+10299	Human herpesvirus 1 (strain 17)	Human herpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+10304	Human herpesvirus 1 (strain F)	Human herpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+10306	Human herpesvirus 1 (strain KOS)	Human herpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+10308	Human herpesvirus 1 (strain Patton)	Human herpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+10310	Human herpesvirus 2	Human herpesvirus 2	dsDNA	Herpesviridae	"human,vertebrates"
+10312	Human herpesvirus 2 (strain 186)	Human herpesvirus 2	dsDNA	Herpesviridae	"human,vertebrates"
+10315	Human herpesvirus 2 (strain HG52)	Human herpesvirus 2	dsDNA	Herpesviridae	"human,vertebrates"
+10335	Human herpesvirus 3	Human herpesvirus 3	dsDNA	Herpesviridae	human
+10376	Human herpesvirus 4	Epstein-Barr virus	dsDNA	Herpesviridae	"human,vertebrates"
+10377	Human herpesvirus 4 (strain B95-8)	Epstein-Barr virus	dsDNA	Herpesviridae	"human,vertebrates"
+10359	Human herpesvirus 5	Human cytomegalovirus	dsDNA	Herpesviridae	human
+10360	Human herpesvirus 5 (strain AD169)	Human cytomegalovirus	dsDNA	Herpesviridae	human
+311339	Human herpesvirus 5 (strain Toledo)	Human cytomegalovirus	dsDNA	Herpesviridae	human
+32603	Human herpesvirus 6A	Human herpesvirus 6	dsDNA	Herpesviridae	human
+10370	Human herpesvirus 6A (strain Uganda-1102) (HHV-6 variant A)	Human herpesvirus 6	dsDNA	Herpesviridae	human
+32604	Human herpesvirus 6B	Human herpesvirus 6	dsDNA	Herpesviridae	"human,vertebrates"
+36351	Human herpesvirus 6B (strain Z29)	Human herpesvirus 6	dsDNA	Herpesviridae	"human,vertebrates"
+10372	Human herpesvirus 7	Human herpesvirus 7	dsDNA	Herpesviridae	human
+37296	Human herpesvirus 8	Kaposi's sarcoma-associated herpesvirus	dsDNA	Herpesviridae	"human,vertebrates"
+868565	Human herpesvirus 8 (strain GK18)	Kaposi's sarcoma-associated herpesvirus	dsDNA	Herpesviridae	"human,vertebrates"
+435895	Human herpesvirus 8 type M	Kaposi's sarcoma-associated herpesvirus	dsDNA	Herpesviridae	"human,vertebrates"
+11676	Human immunodeficiency virus 1	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11685	Human immunodeficiency virus 1 (isolate ARV2/SF2)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11678	Human immunodeficiency virus 1 (isolate BH10)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11686	Human immunodeficiency virus 1 (isolate BRU)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11689	Human immunodeficiency virus 1 (isolate ELI)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11706	Human immunodeficiency virus 1 (isolate HXB2)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11707	Human immunodeficiency virus 1 (isolate HXB3)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11696	Human immunodeficiency virus 1 (isolate MN)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11698	Human immunodeficiency virus 1 (isolate NY5)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11679	Human immunodeficiency virus 1 (isolate PCV12)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11691	Human immunodeficiency virus 1 (isolate SF162)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+11709	Human immunodeficiency virus 2	Human immunodeficiency virus 2	ssRNA-RT	Retroviridae	human
+11714	Human immunodeficiency virus 2 (ISOLATE BEN)	Human immunodeficiency virus 2	ssRNA-RT	Retroviridae	human
+11717	Human immunodeficiency virus 2 subtype A (isolate Ghana-1)	Human immunodeficiency virus 2	ssRNA-RT	Retroviridae	human
+11720	Human immunodeficiency virus 2 subtype A (isolate ROD)	Human immunodeficiency virus 2	ssRNA-RT	Retroviridae	human
+362651	Human immunodeficiency virus type 1 (isolate YU2)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+290579	Human immunodeficiency virus type 1 group M subtype B (isolate Lai)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+388812	Human immunodeficiency virus type 1 group M subtype C (isolate 92BR025)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+388814	Human immunodeficiency virus type 1 group M subtype F1 (isolate 93BR020)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+388826	Human immunodeficiency virus type 1 group M subtype H (isolate 90CF056)	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+388819	Human immunodeficiency virus type 1 group N	Human immunodeficiency virus 1	ssRNA-RT	Retroviridae	"human,vertebrates"
+655603	Human klassevirus 1	Human klassevirus 1	(+)ssRNA	Picornaviridae	human
+694067	Human metapneumovirus (strain CAN97-83)	Human metapneumovirus	(-)ssRNA	Pneumoviridae	"human,vertebrates"
+334203	Human papillomavirus 1	Human papillomavirus 1	dsDNA	Papillomaviridae	human
+333759	Human papillomavirus type 10	Human papillomavirus 10	dsDNA	Papillomaviridae	human
+10580	Human papillomavirus type 11	Human papillomavirus 11	dsDNA	Papillomaviridae	human
+333760	Human papillomavirus type 16	Human papillomavirus 16	dsDNA	Papillomaviridae	human
+333761	Human papillomavirus type 18	Human papillomavirus 18	dsDNA	Papillomaviridae	"human,vertebrates"
+10583	Human papillomavirus type 1a	Human papillomavirus 1a	dsDNA	Papillomaviridae	human
+31547	Human papillomavirus type 20	Human papillomavirus 20	dsDNA	Papillomaviridae	human
+333762	Human papillomavirus type 26	Human papillomavirus 26	dsDNA	Papillomaviridae	human
+10614	Human papillomavirus type 3	Human papillomavirus 3	dsDNA	Papillomaviridae	human
+10585	Human papillomavirus type 31	Human papillomavirus 31	dsDNA	Papillomaviridae	human
+333763	Human papillomavirus type 32	Human papillomavirus 32	dsDNA	Papillomaviridae	human
+10586	Human papillomavirus type 33	Human papillomavirus 33	dsDNA	Papillomaviridae	human
+10587	Human papillomavirus type 35	Human papillomavirus 35	dsDNA	Papillomaviridae	human
+37958	Human papillomavirus type 37	Human papillomavirus 37	dsDNA	Papillomaviridae	human
+37959	Human papillomavirus type 38	Human papillomavirus 38	dsDNA	Papillomaviridae	human
+10588	Human papillomavirus type 39	Human papillomavirus 39	dsDNA	Papillomaviridae	human
+10617	Human papillomavirus type 4	Human papillomavirus 4	dsDNA	Papillomaviridae	human
+10593	Human papillomavirus type 45	Human papillomavirus 45	dsDNA	Papillomaviridae	human
+333923	Human papillomavirus type 5	Human papillomavirus 5	dsDNA	Papillomaviridae	human
+10595	Human papillomavirus type 51	Human papillomavirus 51	dsDNA	Papillomaviridae	human
+10598	Human papillomavirus type 58	Human papillomavirus 58	dsDNA	Papillomaviridae	human
+31552	Human papillomavirus type 6	Human papillomavirus 6	dsDNA	Papillomaviridae	human
+45240	Human papillomavirus type 68	Human papillomavirus 68	dsDNA	Papillomaviridae	human
+10600	Human papillomavirus type 6b	Human papillomavirus 6b	dsDNA	Papillomaviridae	human
+39457	Human papillomavirus type 70	Human papillomavirus 70	dsDNA	Papillomaviridae	human
+10579	Human papillomavirus type 8	Human papillomavirus 8	dsDNA	Papillomaviridae	human
+10621	Human papillomavirus type 9	Human papillomavirus 9	dsDNA	Papillomaviridae	"human,vertebrates"
+10602	Human papillomavirus type ME180	Human papillomavirus ME180	dsDNA	Papillomaviridae	human
+1979160	Human parainfluenza virus 2	Human parainfluenza virus 2	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+11214	Human parainfluenza virus 2 (strain Toshiba)	Human parainfluenza virus 2	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+103911	Human parechovirus 1 (strain Harris)	Human parechovirus 1	(+)ssRNA	Picornaviridae	"human,vertebrates"
+10632	Human polyomavirus (type JC)	Human polyomavirus (type JC)	dsDNA	Polyomaviridae	human
+1891762	Human polyomavirus 1	Human polyomavirus 1	dsDNA	Polyomaviridae	"human,vertebrates"
+11250	Human respiratory syncytial virus	Human respiratory syncytial virus	(-)ssRNA	Pneumoviridae	human
+11259	Human respiratory syncytial virus (strain A2)	Human respiratory syncytial virus	(-)ssRNA	Pneumoviridae	human
+410078	Human respiratory syncytial virus S2	Human respiratory syncytial virus	(-)ssRNA	Pneumoviridae	human
+12131	Human rhinovirus B14	Human rhinovirus 	(+)ssRNA	Picornaviridae	human
+11963	Human spumaretrovirus	Human spumaretrovirus	ssRNA-RT	Retroviridae	human
+387139	Influenza A virus (A/Aichi/2/1968 H3N2)	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+1663996	Influenza A virus (A/Anhui/1-YK_RG01/2013(H7N9))	Influenza A virus (H7N9)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+383596	Influenza A virus (A/Beijing/39/1975(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+88776	Influenza A virus (A/Brevig Mission/1/1918 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+642261	Influenza A virus (A/California/08/2009(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+353437	Influenza A virus (A/Canterbury/02/2005(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+382838	Influenza A virus (A/Duck/Germany/1949 H10N7)	Influenza A virus (H10N7)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+303316	Influenza A virus (A/Hatay/2004/(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+383543	Influenza A virus (A/Hickox/1940 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+351266	Influenza A virus (A/Hong Kong/43/1975(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+155218	Influenza A virus (A/Hong Kong/482/97(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+480019	Influenza A virus (A/Moscow/10/1999(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+381512	Influenza A virus (A/New Caledonia/20/1999(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+643960	Influenza A virus (A/New York/1682/2009(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+335361	Influenza A virus (A/New York/238/2005(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+335341	Influenza A virus (A/New York/392/2004(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+381513	Influenza A virus (A/Panama/2007/1999(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+158611	Influenza A virus (A/Paris/908/97(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+1343791	Influenza A virus (A/Puerto Rico/8-LVD3/1934(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+284213	Influenza A virus (A/Qa/Thailand/57/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+464623	Influenza A virus (A/Solomon Islands/3/2006(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+669984	Influenza A virus (A/Taiwan/126/2009(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+380964	Influenza A virus (A/Texas/36/1991(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+266827	Influenza A virus (A/Thailand/1(KAN-1)/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+440390	Influenza A virus (A/Turkey/651242/2006(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+387262	Influenza A virus (A/Turkey/Canada/1963 H6N8)	Influenza A virus (H6N8)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+381517	Influenza A virus (A/Udorn/307/1972 H3N2)	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+392809	Influenza A virus (A/Victoria/3/1975(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+644788	Influenza A virus (A/Viet Nam/1194/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+284218	Influenza A virus (A/Viet Nam/1203/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+261268	Influenza A virus (A/Vietnam/1196/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+382835	Influenza A virus (A/WSN/1933(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+381518	Influenza A virus (A/Wilson-Smith/1933 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+393902	Influenza A virus (A/Wisconsin/67/2005(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+480024	Influenza A virus (A/Wyoming/03/2003(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+680716	Influenza A virus (A/chicken/China/27402/1997(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+329599	Influenza A virus (A/chicken/Guangdong/6/97(H9N2))	Influenza A virus (H9N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+363744	Influenza A virus (A/chicken/Kurgan/3/2005(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+270485	Influenza A virus (A/chicken/Nakorn-Patom/Thailand/CU-K2/2004(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+251307	Influenza A virus (A/chicken/Netherlands/1/03(H7N7))	Influenza A virus (H7N7)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+402527	Influenza A virus (A/chicken/Scotland/1959(H5N1))	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+380337	Influenza A virus (A/equine/Prague/1/1956(H7N7)	Influenza A virus (H7N7)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+437607	Influenza A virus (A/hvPR8/34(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+437606	Influenza A virus (A/lvPR8/34(H1N1))	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+352515	Influenza A virus (A/mallard/Netherlands/12/2000(H7N3))	Influenza A virus (H7N3)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+442553	Influenza A virus (A/migratory duck/Hong Kong/MPS180/2003(H4N6))	Influenza A virus (H4N6)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+997555	Influenza A virus (A/reassortant/CDC2005712034(California/07/2004 x Puerto Rico/8/1934)(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+384493	Influenza A virus (A/seal/Mass/1/1980(H7N7))	Influenza A virus (H7N7)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+385599	Influenza A virus (A/udorn/1972(H3N2))	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+130763	Influenza A virus (strain A/Hong Kong/156/1997 H5N1 genotype Gs/Gd)	Influenza A virus (H5N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+211044	Influenza A virus (strain A/Puerto Rico/8/1934 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+221016	Influenza A virus (strain A/Qu/7/1970 H3N2)	Influenza A virus (H3N2)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+31663	Influenza A virus (strain A/Turkey/Bethlehem-Glilit/1492-B/1982 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+641501	Influenza A virus (swl A/California/04/2009 H1N1)	Influenza A virus (H1N1)	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+518987	Influenza B virus (B/Lee/1940)	Influenza B virus	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+11553	Influenza C virus (C/Ann Arbor/1/1950)	Influenza C virus	(-)ssRNA	Orthomyxoviridae	"human,vertebrates"
+11746	Jaagsiekte sheep retrovirus	Jaagsiekte sheep retrovirus	ssRNA-RT	Retroviridae	vertebrates
+11072	Japanese encephalitis virus	Japanese encephalitis virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+2169991	Junin mammarenavirus	Junin mammarenavirus	(-)ssRNA	Arenaviridae	"human,vertebrates"
+11078	Kunjin virus (strain mrm61c)	Kunjin virus 	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+796210	La Crosse virus (isolate L78)	La Crosse virus	(-)ssRNA	Peribunyaviridae	"human,invertebrates,vertebrates"
+33727	Lake Victoria marburgvirus (strain Musoke-80)	Lake Victoria marburgvirus 	(-)ssRNA	Filoviridae	"human,vertebrates"
+11085	Langat virus	Langat virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+11622	Lassa virus (strain Mouse/Sierra Leone/Josiah/1976)	Lassa virus 	(-)ssRNA	Arenaviridae	"human,vertebrates"
+11624	Lymphocytic choriomeningitis virus (strain Armstrong)	Lymphocytic choriomeningitis virus	(-)ssRNA	Arenaviridae	"human,vertebrates"
+1891767	Macaca mulatta polyomavirus 1	Macaca mulatta polyomavirus 1	dsDNA	Polyomaviridae	"human,vertebrates"
+45455	Macacine gammaherpesvirus 4	Macacine gammaherpesvirus 4	dsDNA	Herpesviridae	vertebrates
+11628	Machupo mammarenavirus	Machupo mammarenavirus	(-)ssRNA	Arenaviridae	"human,vertebrates"
+1979163	Mapuera rubulavirus	Mapuera rubulavirus	(-)ssRNA	Paramyxoviridae	vertebrates
+11855	Mason-Pfizer monkey virus	Mason-Pfizer monkey virus	ssRNA-RT	Retroviridae	vertebrates
+11234	Measles virus (strain Dublin)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+11235	Measles virus (strain Edmonston)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+132487	Measles virus (strain Edmonston-Schwarz vaccine)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+645098	Measles virus (strain Ichinose-B95a)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+70146	Measles virus (strain edmonston b)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+70149	Measles virus (strain edmonston-zagreb)	Measles virus 	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+152219	Menangle virus	Menangle virus	(-)ssRNA	Paramyxoviridae	vertebrates
+493803	Merkel cell polyomavirus	Merkel cell polyomavirus	dsDNA	Polyomaviridae	human
+1891729	Mesocricetus auratus polyomavirus 1	Mesocricetus auratus polyomavirus 1	dsDNA	Polyomaviridae	vertebrates
+12538	Mokola lyssavirus	Mokola lyssavirus	(-)ssRNA	Rhabdoviridae	vertebrates
+10280	Molluscum contagiosum virus subtype 1	Molluscum contagiosum virus subtype 1	dsDNA	Poxviridae	"human,vertebrates"
+11801	Moloney murine leukemia virus	Moloney murine leukemia virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+928306	Moloney murine leukemia virus (isolate Shinnick)	Moloney murine leukemia virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+11759	Mouse mammary tumor virus (strain C3H)	Mouse mammary tumor virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+10636	Murine polyomavirus strain A2	Murine polyomavirus	dsDNA	Polyomaviridae	vertebrates
+1979165	Mumps rubulavirus	Mumps rubulavirus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+11167	Mumps virus (strain Enders)	Mumps virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+10366	Murid herpesvirus 1	Murid herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+69156	Murid herpesvirus 1 (strain K181)	Murid herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+10367	Murid herpesvirus 1 (strain Smith)	Murid herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+33708	Murid herpesvirus 4	Murid herpesvirus 4	dsDNA	Herpesviridae	vertebrates
+10530	Murine adenovirus A serotype 1 (MAdV-1)	Murine adenovirus A serotype 1 (MAdV-1)	dsDNA	Adenoviridae	vertebrates
+11142	Murine hepatitis virus (strain A59)	Murine hepatitis virus	(+)ssRNA	Coronaviridae	vertebrates
+135748	Murine herpesvirus 72	Murine herpesvirus 72	dsDNA	Herpesviridae	vertebrates
+648235	Murine minute virus (strain MVM prototype)	Murine minute virus	ssDNA	Parvoviridae	vertebrates
+157703	Murine polyomavirus (strain 3)	Murine polyomavirus	dsDNA	Polyomaviridae	vertebrates
+1891730	Mus musculus polyomavirus 1	Mus musculus polyomavirus 1	dsDNA	Polyomaviridae	vertebrates
+31530	Myxoma virus (strain Lausanne)	Myxoma virus	dsDNA	Poxviridae	vertebrates
+652953	Newcastle disease virus (strain Chicken/United States/B1/48)	Newcastle disease virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+121791	Nipah virus	Nipah virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+10258	Orf virus	Orf virus	dsDNA	Poxviridae	"human,vertebrates"
+10259	Orf virus (strain NZ2)	Orf virus	dsDNA	Poxviridae	"human,vertebrates"
+647330	Orf virus strain SA00	Orf virus	dsDNA	Poxviridae	"human,vertebrates"
+2593991	Peste-des-petits-ruminants virus	Peste-des-petits-ruminants virus	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+1205899	Phlebovirus JS2010-014	Phlebovirus	(-)ssRNA	Phenuiviridae	"human,invertebrates,vertebrates"
+1173018	Phlebovirus wch/97/hn/china/2011	Phlebovirus	(-)ssRNA	Phenuiviridae	human
+12081	Poliovirus type 1 (strain Mahoney)	Poliovirus type 1	(+)ssRNA	Picornaviridae	"human,vertebrates"
+230237	Porcine hemagglutinating encephalomyelitis virus (strain 67N)	Porcine hemagglutinating encephalomyelitis virus	(+)ssRNA	Coronaviridae	vertebrates
+28344	Porcine reproductive and respiratory syndrome virus	Porcine reproductive and respiratory syndrome virus	(+)ssRNA	Arteriviridae	vertebrates
+10915	Porcine rotavirus serotype 5/strain OSU	Porcine rotavirus	dsRNA	Reoviridae	vertebrates
+53179	Porcine rubulavirus	Porcine rubulavirus	(-)ssRNA	Paramyxoviridae	vertebrates
+39002	Puumala virus (strain sotkamo/v-2969/81)	Puumala virus	(-)ssRNA	Hantaviridae	"human,vertebrates"
+32606	Rabbitpox virus	Rabbitpox virus	dsDNA	Poxviridae	"human,vertebrates"
+103929	Rabies virus (strain PV)	Rabies virus	(-)ssRNA	Rhabdoviridae	"human,vertebrates"
+45418	Rabies virus (strain Vnukovo-32)	Rabies virus	(-)ssRNA	Rhabdoviridae	"human,vertebrates"
+945062	Recombinant Hepatitis C virus J6/JFH1(ED43-NS5A)	Recombinant Hepatitis C virus	(+)ssRNA	Flaviviridae	"human,vertebrates"
+10884	Mammalian orthoreovirus 1 Lang	Mammalian orthoreovirus 1	dsRNA	Reoviridae	vertebrates
+10886	Mammalian orthoreovirus 3 Dearing	Mammalian orthoreovirus 3	dsRNA	Reoviridae	vertebrates
+386032	Reston ebolavirus - Reston (1989)	Reston ebolavirus	(-)ssRNA	Filoviridae	"human,vertebrates"
+1933187	Rift Valley fever phlebovirus	Rift Valley fever phlebovirus	(-)ssRNA	Phenuiviridae	"human,invertebrates,vertebrates"
+11589	Rift valley fever virus (strain ZH-548 M12)	Rift valley fever virus	(-)ssRNA	Phenuiviridae	"human,invertebrates,vertebrates"
+36409	Rinderpest virus (strain RBOK)	Rinderpest virus	(-)ssRNA	Paramyxoviridae	vertebrates
+11241	Rinderpest virus (strain Sa)	Rinderpest virus	(-)ssRNA	Paramyxoviridae	vertebrates
+28875	Rotavirus A	Rotavirus A	dsRNA	Reoviridae	"human,vertebrates"
+578843	Rotavirus A human/BEL/4106/2000 G3P11[14]	Rotavirus A	dsRNA	Reoviridae	"human,vertebrates"
+11886	Rous sarcoma virus	Rous sarcoma virus	ssRNA-RT	Retroviridae	vertebrates
+11887	Rous sarcoma virus (strain H-19)	Rous sarcoma virus	ssRNA-RT	Retroviridae	vertebrates
+11888	Rous sarcoma virus (strain Prague C)	Rous sarcoma virus	ssRNA-RT	Retroviridae	vertebrates
+11041	Rubella virus	Rubella virus	(+)ssRNA	Togaviridae	human
+11043	Rubella virus (strain M33)	Rubella virus	(+)ssRNA	Togaviridae	human
+11044	Rubella virus (strain RA27/3 vaccine)	Rubella virus	(+)ssRNA	Togaviridae	human
+11045	Rubella virus (strain Therien)	Rubella virus	(+)ssRNA	Togaviridae	human
+227859	SARS coronavirus	SARS-CoV-1	(+)ssRNA	Coronaviridae	"human,vertebrates"
+228404	SARS coronavirus HKU-39849	SARS-CoV-1	(+)ssRNA	Coronaviridae	"human,vertebrates"
+2697049	SARS-CoV-2	SARS-CoV-2	(+)ssRNA	Coronaviridae	"human,vertebrates"
+992212	SFTS virus HB29	SFTS virus	(-)ssRNA	Bunyaviridae	"human,invertebrates,vertebrates"
+2169992	Brazilian mammarenavirus	Brazilian mammarenavirus	(-)ssRNA	Arenaviridae	human
+10383	Saimiriine herpesvirus 2 (strain 11)	Saimiriine herpesvirus 2	dsDNA	Herpesviridae	vertebrates
+10384	Saimiriine herpesvirus 2 (strain 488)	Saimiriine herpesvirus 2	dsDNA	Herpesviridae	vertebrates
+28292	Sandfly fever sicilian virus	Sandfly fever sicilian virus	(-)ssRNA	Phenuiviridae	"human,invertebrates"
+11033	Semliki Forest virus	Semliki Forest virus	(+)ssRNA	Togaviridae	"human,invertebrates,vertebrates"
+11195	Sendai virus (strain Fushimi)	Sendai virus	(-)ssRNA	Paramyxoviridae	vertebrates
+302272	Sendai virus (strain Ohita)	Sendai virus	(-)ssRNA	Paramyxoviridae	vertebrates
+11198	Sendai virus (strain Z)	Sendai virus	(-)ssRNA	Paramyxoviridae	vertebrates
+1980490	Seoul orthohantavirus	Seoul orthohantavirus	(-)ssRNA	Hantaviridae	"human,vertebrates"
+10269	Sheeppox virus (strain KS-1)	Sheeppox virus	dsDNA	Poxviridae	vertebrates
+36436	Simian 11 rotavirus (strain SA11-4F)	Simian 11 rotavirus	dsRNA	Reoviridae	vertebrates
+37137	Simian 11 rotavirus (strain SA11-Both)	Simian 11 rotavirus	dsRNA	Reoviridae	vertebrates
+11723	Simian immunodeficiency virus	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+31684	Simian immunodeficiency virus (isolate AGM / clone GRI-1)	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+388912	Simian immunodeficiency virus (isolate EK505)	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+11733	Simian immunodeficiency virus (isolate Mm142-83)	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+11738	Simian immunodeficiency virus (isolate PBj14/BCL-3)	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+349975	Simian immunodeficiency virus - agm.tan-1	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+11712	Simian immunodeficiency virus - sm	Simian immunodeficiency virus	ssRNA-RT	Retroviridae	"human,vertebrates"
+1979162	Simian parainfluenza virus 5	Simian parainfluenza virus 5	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+11942	Simian retrovirus 1	Simian retrovirus 1	ssRNA-RT	Retroviridae	vertebrates
+450149	Simian rotavirus A/SA11-H96	Simian rotavirus	dsRNA	Reoviridae	vertebrates
+10633	Simian virus 40	Simian virus 40	dsDNA	Polyomaviridae	"human,vertebrates"
+11208	Simian virus 5 (strain W3)	Simian virus 5	(-)ssRNA	Paramyxoviridae	"human,vertebrates"
+11034	Sindbis virus	Sindbis virus	(+)ssRNA	Togaviridae	"human,invertebrates,vertebrates"
+10345	Suid herpesvirus 1	Suid herpesvirus 1	dsDNA	Herpesviridae	vertebrates
+126796	Thogoto virus (isolate SiAr 126)	Thogoto virus	(-)ssRNA	Orthomyxoviridae	"invertebrates,vertebrates"
+11084	Tick-borne encephalitis virus	Tick-borne encephalitis virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+162013	Tioman virus	Tioman virus	(-)ssRNA	Paramyxoviridae	vertebrates
+11590	Toscana virus	Toscana virus	(-)ssRNA	Phenuiviridae	"human,invertebrates,vertebrates"
+487099	Uukuniemi virus (strain S23)	Uukuniemi virus	(-)ssRNA	Phenuiviridae	"human,invertebrates,vertebrates"
+10245	Vaccinia virus	Vaccinia virus	dsDNA	Poxviridae	"human,vertebrates"
+126794	Vaccinia virus (strain Ankara)	Vaccinia virus	dsDNA	Poxviridae	"human,vertebrates"
+10249	Vaccinia virus (strain Copenhagen)	Vaccinia virus	dsDNA	Poxviridae	"human,vertebrates"
+31531	Vaccinia virus (strain L-IVP)	Vaccinia virus	dsDNA	Poxviridae	"human,vertebrates"
+10254	Vaccinia virus (strain Western Reserve)	Vaccinia virus	dsDNA	Poxviridae	"human,vertebrates"
+341980	Human herpesvirus 3 (strain Oka vaccine)	Human herpesvirus 3	dsDNA	Herpesviridae	human
+10255	Variola virus	Variola virus	dsDNA	Poxviridae	human
+587200	Variola virus (isolate Human/India/Ind3/1967)	Variola virus	dsDNA	Poxviridae	human
+11036	Venezuelan equine encephalitis virus	Venezuelan equine encephalitis virus	(+)ssRNA	Togaviridae	"human,invertebrates,vertebrates"
+11276	Vesicular stomatitis virus	Vesicular stomatitis virus	(-)ssRNA	Rhabdoviridae	"invertebrates,vertebrates"
+11283	Vesicular stomatitis virus (serotype New Jersey / strain Ogden)	Vesicular stomatitis virus	(-)ssRNA	Rhabdoviridae	"invertebrates,vertebrates"
+11285	Vesicular stomatitis virus (strain San Juan)	Vesicular stomatitis virus	(-)ssRNA	Rhabdoviridae	"invertebrates,vertebrates"
+2169971	Visna-maedi virus	Visna-maedi virus	ssRNA-RT	Retroviridae	vertebrates
+39720	Walleye dermal sarcoma virus	Walleye dermal sarcoma virus	ssRNA-RT	Retroviridae	vertebrates
+11082	West Nile virus (WNV)	West Nile virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+35269	Woodchuck hepatitis virus	Woodchuck hepatitis virus	dsDNA-RT	Hepadnaviridae	vertebrates
+928314	Yaba monkey tumor virus (strain VR587)	Yaba monkey tumor virus	dsDNA	Poxviridae	vertebrates
+132475	Yaba-like disease virus	Yaba-like disease virus	dsDNA	Poxviridae	human
+186538	Zaire ebolavirus	Zaire ebolavirus	(-)ssRNA	Filoviridae	"human,vertebrates"
+128951	Ebola virus - Zaire (1995)	Ebola virus	(-)ssRNA	Filoviridae	"human,vertebrates"
+128952	"Ebola virus - Mayinga, Zaire, 1976"	Ebola virus	(-)ssRNA	Filoviridae	"human,vertebrates"
+64320	Zika virus	Zika virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+2316109	Zika virus (isolate ZIKV/Human/Cambodia/FSS13025/2010)	Zika virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+2043570	Zika virus ZIKV/H. sapiens/FrenchPolynesia/10087PF/2013	Zika virus	(+)ssRNA	Flaviviridae	"human,invertebrates,vertebrates"
+10927	Bovine rotavirus	Bovine rotavirus	dsRNA	Reoviridae	"human,vertebrates"
+45219	Guanarito mammarenavirus	Guanarito mammarenavirus	(-)ssRNA	Arenaviridae	"human,vertebrates"
+10407	Hepatitis B virus	Hepatitis B virus	dsDNA-RT	Hepadnaviridae	"human,vertebrates"
+10298	Human herpesvirus 1	Human herpesvirus 1	dsDNA	Herpesviridae	"human,vertebrates"
+211787	Human papillomavirus type 92	Human papillomavirus 92	dsDNA	Papillomaviridae	human
+247268	Human papillomavirus type 93	Human papillomavirus 93	dsDNA	Papillomaviridae	human
+247269	Human papillomavirus type 93	Human papillomavirus 93	dsDNA	Papillomaviridae	human
+10623	Kappapapillomavirus 2	Kappapapillomavirus 2	dsDNA	Papillomaviridae	vertebrates
+10970	Rotavirus sp.	Rotavirus sp.	dsRNA	Reoviridae	"human,vertebrates"

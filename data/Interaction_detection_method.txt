@@ -1,0 +1,163 @@
+Interaction Detection Method	Binary call	Parent MI	Parent2 MI	Parent3 MI	Interaction Number	Information from		
+MI:0004(affinity chromatography technology)	non-binary	MI:0004	MI:0400	MI:0401	304958	Rolland et al. 2014		
+MI:0006(anti bait coimmunoprecipitation)	non-binary	MI:0004	MI:0400	MI:0401	37281	Rolland et al. 2014		
+MI:0007(anti tag coimmunoprecipitation)	non-binary	MI:0004	MI:0400	MI:0401	142971	Rolland et al. 2014		
+MI:0008(array technology)	binary	MI:0008	MI:0400	MI:0401	103	Rolland et al. 2014		
+MI:0010(beta galactosidase complementation)	binary	MI:0010	MI:0010	MI:0090	29	Rolland et al. 2014		
+MI:0011(beta lactamase complementation)	binary	MI:0011	MI:0011	MI:0090	27	Rolland et al. 2014		
+MI:0012(bioluminescence resonance energy transfer)	binary	MI:0012	MI:0051	MI:0013	311	Rolland et al. 2014		
+MI:0013(biophysical)	non-binary	MI:0013	MI:0013	MI:0013	20	Rolland et al. 2014		
+MI:0016(circular dichroism)	non-binary	MI:0016	MI:0016	MI:0013	54	Rolland et al. 2014		
+MI:0017(classical fluorescence spectroscopy)	non-binary	MI:0017	MI:0051	MI:0013	111	Rolland et al. 2014		
+MI:0018(two hybrid)	binary	MI:0018	MI:0232	MI:0090	72540	Rolland et al. 2014		
+MI:0019(coimmunoprecipitation)	non-binary	MI:0004	MI:0400	MI:0401	2514	Rolland et al. 2014		
+MI:0020(transmission electron microscopy)	non-binary	MI:0020	MI:0040	MI:0428	111	Rolland et al. 2014		
+MI:0027(cosedimentation)	non-binary	MI:0027	MI:0027	MI:0401	71	Rolland et al. 2014		
+MI:0028(cosedimentation in solution)	non-binary	MI:0027	MI:0027	MI:0401	189	Rolland et al. 2014		
+MI:0029(cosedimentation through density gradient)	non-binary	MI:0027	MI:0027	MI:0401	707	Rolland et al. 2014		
+MI:0030(cross-linking study)	binary	MI:0030	MI:0030	MI:0401	12490	Rolland et al. 2014		
+MI:0031(protein cross-linking with a bifunctional reagent)	binary	MI:0030	MI:0030	MI:0401	14	Rolland et al. 2014		
+MI:0034(display technology)	binary	MI:0034	MI:0400	MI:0401	1078	Rolland et al. 2014		
+MI:0038(dynamic light scattering)	non-binary	MI:0038	MI:0067	MI:0013	35	Rolland et al. 2014		
+MI:0040(electron microscopy)	non-binary	MI:0040	MI:0040	MI:0428	115	Rolland et al. 2014		
+MI:0042(electron paramagnetic resonance)	non-binary	MI:0042	MI:0043	MI:0013	4	Rolland et al. 2014		
+MI:0047(far western blotting)	binary	MI:0047	MI:0047	MI:0047	1194	Rolland et al. 2014		
+MI:0048(filamentous phage display)	binary	MI:0034	MI:0400	MI:0401	12	Rolland et al. 2014		
+MI:0049(filter binding)	non-binary	MI:0892	MI:0400	MI:0401	859	Rolland et al. 2014		
+MI:0051(fluorescence technology)	non-binary	MI:0051	MI:0051	MI:0013	68	Rolland et al. 2014		
+MI:0052(fluorescence correlation spectroscopy)	binary	MI:0052	MI:0051	MI:0013	6	Rolland et al. 2014		
+MI:0053(fluorescence polarization spectroscopy)	binary	MI:0053	MI:0051	MI:0013	767	Rolland et al. 2014		
+MI:0054(fluorescence-activated cell sorting)	non-binary	MI:0054	MI:0051	MI:0013	128	Rolland et al. 2014		
+MI:0055(fluorescent resonance energy transfer)	binary	MI:0055	MI:0051	MI:0013	2042	Rolland et al. 2014		
+MI:0061(his pull down)	non-binary							
+MI:0065(isothermal titration calorimetry)	binary	MI:0065	MI:0065	MI:0013	673	Rolland et al. 2014		
+MI:0066(lambda phage display)	binary	MI:0034	MI:0400	MI:0401	6	Rolland et al. 2014		
+MI:0067(light scattering)	non-binary	MI:0067	MI:0067	MI:0013	72	Rolland et al. 2014		
+MI:0069(mass spectrometry studies of complexes)	non-binary	MI:0069	MI:0943	MI:0013	104	Rolland et al. 2014		
+MI:0071(molecular sieving)	non-binary	MI:0071	MI:0091	MI:0013	1518	Rolland et al. 2014		
+MI:0077(nuclear magnetic resonance)	binary	MI:0077	MI:0077	MI:0013	631	Rolland et al. 2014		
+MI:0081(peptide array)	binary	MI:0008	MI:0400	MI:0401	1560	Rolland et al. 2014		
+MI:0084(phage display)	binary	MI:0034	MI:0400	MI:0401	540	Rolland et al. 2014		
+MI:0089(protein array)	binary	MI:0008	MI:0400	MI:0401	1582	Rolland et al. 2014		
+MI:0090(protein complementation assay)	binary	MI:0090	MI:0090	MI:0090	666	Rolland et al. 2014		
+MI:0091(chromatography technology)	non-binary	MI:0091	MI:0091	MI:0013	85	Rolland et al. 2014		
+MI:0092(protein in situ array)	binary	MI:0008	MI:0400	MI:0401	NA	PSI-MI controlled Vocabulary		
+MI:0095(proteinchip(r) on a surface-enhanced laser desorption/ionization)	binary	MI:0008	MI:0400	MI:0401	3	Rolland et al. 2014		
+MI:0096(pull down)	non-binary	MI:0004	MI:0400	MI:0401	53402	Rolland et al. 2014		
+MI:0097(reverse ras recruitment system)	non-binary	MI:0097	MI:0097	MI:0090	478	Rolland et al. 2014		
+MI:0099(scintillation proximity assay)	binary	MI:0099	MI:0099	MI:0013	61	Rolland et al. 2014		
+MI:0104(static light scattering)	non-binary	MI:0104	MI:0067	MI:0013	25	Rolland et al. 2014		
+MI:0107(surface plasmon resonance)	binary	MI:0107	MI:0968	MI:0013	1807	Rolland et al. 2014		
+MI:0108(t7 phage display)	binary	MI:0034	MI:0400	MI:0401	8	Rolland et al. 2014		
+MI:0111(dihydrofolate reductase reconstruction)	binary	MI:0111	MI:0111	MI:0090	6	Rolland et al. 2014		
+MI:0112(ubiquitin reconstruction)	binary	MI:1320	MI:0232	MI:0090	3813	Rolland et al. 2014		
+MI:0114(x-ray crystallography)	binary	MI:0114	MI:0114	MI:0013	2604	Rolland et al. 2014		
+MI:0115(yeast display)	binary	MI:0034	MI:0400	MI:0401	7	Rolland et al. 2014		
+MI:0226(ion exchange chromatography)	non-binary	MI:0226	MI:0091	MI:0401	234	Rolland et al. 2014		
+MI:0227(reverse phase chromatography)	non-binary	MI:0227	MI:0091	MI:0401	6	Rolland et al. 2014		
+MI:0231(mammalian protein protein interaction trap)	binary	MI:0231	MI:0231	MI:0090	182	Rolland et al. 2014		
+MI:0232(transcriptional complementation assay)	binary	MI:0232	MI:0232	MI:0090	10	Rolland et al. 2014		
+MI:0254(genetic interference)	invalid	MI:0254	MI:0254	MI:0254	6	Rolland et al. 2014		
+MI:0256(rna interference)	invalid	MI:0256	MI:0256	MI:0256	2	PSI-MI controlled Vocabulary		
+MI:0276(blue native page)	non-binary	MI:0807	MI:0982	MI:0401	223	Rolland et al. 2014		
+MI:0369(lex-a dimerization assay)	binary	MI:0369	MI:0232	MI:0090	18	Rolland et al. 2014		
+MI:0370(tox-r dimerization assay)	binary	MI:0370	MI:0370	MI:0090	7	Rolland et al. 2014		
+MI:0397(two hybrid array)	binary	MI:0018	MI:0232	MI:0090	25116	Rolland et al. 2014		
+MI:0398(two hybrid pooling approach)	binary	MI:0018	MI:0232	MI:0090	7455	Rolland et al. 2014		
+MI:0399(two hybrid fragment pooling approach)	binary	MI:0018	MI:0232	MI:0090	2763	Rolland et al. 2014		
+MI:0400(affinity technology)	non-binary	MI:0400	MI:0400	MI:0401	42	Rolland et al. 2014		
+MI:0401(biochemical)	non-binary	MI:0401	MI:0401	MI:0401	1719	Rolland et al. 2014		
+MI:0402(chromatin immunoprecipitation assay)	invalid	MI:0004	MI:0400	MI:0401	131	PSI-MI controlled Vocabulary		
+MI:0404(comigration in non denaturing gel electrophoresis)	non-binary	MI:0807	MI:0982	MI:0401	102	Rolland et al. 2014		
+MI:0405(competition binding)	non-binary	MI:0405	MI:0400	MI:0401	278	Rolland et al. 2014		
+MI:0406(deacetylase assay)	non-binary	MI:0406	MI:0415	MI:0401	21	Rolland et al. 2014		
+MI:0410(3D electron microscopy)	non-binary	MI:0020	MI:0040	MI:0428	208	Rolland et al. 2014		
+MI:0410(electron tomography)	non-binary	MI:0020	MI:0040	MI:0428	11	Rolland et al. 2014		
+MI:0411(enzyme linked immunosorbent assay)	binary	MI:0411	MI:0400	MI:0401	734	Rolland et al. 2014		
+MI:0412(electrophoretic mobility supershift assay)	non-binary	MI:0807	MI:0982	MI:0401	7	Rolland et al. 2014		
+MI:0413(electrophoretic mobility shift assay)	non-binary	MI:0807	MI:0982	MI:0401	13	Rolland et al. 2014		
+MI:0415(enzymatic study)	non-binary	MI:0415	MI:0415	MI:0401	10683	Rolland et al. 2014		
+MI:0416(fluorescence microscopy)	non-binary	MI:0416	MI:0416	MI:0428	50	Rolland et al. 2014		
+MI:0417(footprinting)	binary	MI:0417	MI:0417	MI:0401	9	Rolland et al. 2014		
+MI:0419(gtpase assay)	non-binary	MI:0434	MI:0415	MI:0401	2	Rolland et al. 2014		
+MI:0423(in-gel kinase assay)	non-binary	MI:0424	MI:0415	MI:0401	1	Rolland et al. 2014		
+MI:0424(protein kinase assay)	non-binary	MI:0424	MI:0415	MI:0401	81	Rolland et al. 2014		
+MI:0425(kinase scintillation proximity assay)	binary	MI:0425	MI:0415	MI:0401	2	Rolland et al. 2014		
+MI:0426(light microscopy)	non-binary	MI:0426	MI:0426	MI:0428	2	Rolland et al. 2014		
+MI:0428(imaging technique)	non-binary	MI:0428	MI:0428	MI:0428	55	Rolland et al. 2014		
+MI:0434(phosphatase assay)	non-binary	MI:0434	MI:0415	MI:0401	20	Rolland et al. 2014		
+MI:0435(protease assay)	non-binary	MI:0990	MI:0415	MI:0401	36	Rolland et al. 2014		
+MI:0437(protein three hybrid)	non-binary	MI:0588	MI:0232	MI:0090	21	Rolland et al. 2014		
+MI:0440(saturation binding)	binary	MI:0440	MI:0400	MI:0401	50	Rolland et al. 2014		
+MI:0510(homogeneous time resolved fluorescence)	non-binary	MI:0510	MI:0051	MI:0013	3	Rolland et al. 2014		
+MI:0512(zymography)	non-binary	MI:0990	MI:0415	MI:0401	10	Rolland et al. 2014		
+MI:0515(methyltransferase assay)	non-binary	MI:0515	MI:0415	MI:0401	1	Rolland et al. 2014		
+MI:0516(methyltransferase radiometric assay)	non-binary	MI:0515	MI:0415	MI:0401	8	Rolland et al. 2014		
+MI:0588(three hybrid)	non-binary	MI:0588	MI:0232	MI:0090	18	Rolland et al. 2014		
+MI:0605(enzymatic footprinting)	binary	MI:0605	MI:0417	MI:0401	9	Rolland et al. 2014		
+MI:0655(lambda repressor two hybrid)	binary	MI:0655	MI:0232	MI:0090	15	PSI-MI controlled Vocabulary		
+MI:0663(confocal microscopy)	non-binary	MI:0663	MI:0663	MI:0428	39	Rolland et al. 2014		
+MI:0676(tandem affinity purification)	non-binary	MI:0004	MI:0400	MI:0401	28611	Rolland et al. 2014		
+MI:0678(antibody array)	binary	MI:0008	MI:0400	MI:0401	65	Rolland et al. 2014		
+MI:0695(sandwich immunoassay)	binary	MI:0008	MI:0400	MI:0401	1	PSI-MI controlled Vocabulary		
+MI:0726(reverse two hybrid)	binary	MI:0726	MI:0232	MI:0090	2	Rolland et al. 2014		
+MI:0727(lexa b52 complementation)	binary	MI:0018	MI:0232	MI:0090	28	PSI-MI controlled Vocabulary		
+MI:0728(gal4 vp16 complementation)	binary	MI:0018	MI:0232	MI:0090	40	Rolland et al. 2014		
+MI:0729(luminescence based mammalian interactome mapping)	binary	MI:0729	MI:0400	MI:0401	1922	Rolland et al. 2014		
+MI:0807(comigration in gel electrophoresis)	non-binary	MI:0807	MI:0982	MI:0401	39	Rolland et al. 2014		
+MI:0808(comigration in sds page)	non-binary	MI:0807	MI:0982	MI:0401	51	Rolland et al. 2014		
+MI:0809(bimolecular fluorescence complementation)	binary	MI:0809	MI:0051	MI:0013	1192	Rolland et al. 2014		
+MI:0813(proximity enzyme linked immunosorbent assay)	binary	MI:0813	MI:0400	MI:0401	1	Rolland et al. 2014		
+MI:0813(proximity ligation assay)	binary	MI:0813	MI:0400	MI:0401	1393	Rolland et al. 2014		
+MI:0814(protease accessibility laddering)	binary	MI:0605	MI:0417	MI:0401	2	PSI-MI controlled Vocabulary		
+MI:0826(x ray scattering)	non-binary	MI:0826	MI:0067	MI:0013	106	Rolland et al. 2014		
+MI:0858(immunodepleted coimmunoprecipitation)	non-binary	MI:0004	MI:0400	MI:0401	12	Rolland et al. 2014		
+MI:0872(atomic force microscopy)	non-binary	MI:0872	MI:0872	MI:0428	25	Rolland et al. 2014		
+MI:0880(atpase assay)	non-binary	MI:0434	MI:0415	MI:0401	6	Rolland et al. 2014		
+MI:0888(small angle neutron scattering)	binary	MI:0888	MI:0888	MI:0013	2	Rolland et al. 2014		
+MI:0889(acetylase assay)	non-binary	MI:0889	MI:0415	MI:0401	2	Rolland et al. 2014		
+MI:0892(solid phase assay)	non-binary	MI:0892	MI:0400	MI:0401	224	Rolland et al. 2014		
+MI:0900(p8 filamentous phage display)	binary	MI:0034	MI:0400	MI:0401	182	PSI-MI controlled Vocabulary		
+MI:0905(amplified luminescent proximity homogeneous assay)	binary	MI:0905	MI:0051	MI:0013	32	Rolland et al. 2014		
+MI:0916(lexa vp16 complementation)	binary	MI:0018	MI:0232	MI:0090	4	PSI-MI controlled Vocabulary		
+MI:0920(ribonuclease assay)	invalid	MI:0415	MI:0415	MI:0401	4	PSI-MI controlled Vocabulary		
+MI:0921(surface plasmon resonance array)	binary	MI:0008	MI:0400	MI:0401	128	Rolland et al. 2014		
+MI:0943(detection by mass spectrometry)	non-binary	MI:0943	MI:0943	MI:0013	6	Rolland et al. 2014		
+MI:0944(mass spectrometry study of hydrogen/deuterium exchange)	non-binary	MI:0943	MI:0943	MI:0013	13	Rolland et al. 2014		
+MI:0947(bead aggregation assay)	non-binary	MI:0892	MI:0400	MI:0401	2	Rolland et al. 2014		
+MI:0949(gdp/gtp exchange assay)	non-binary	MI:0949	MI:0949	MI:0401	25	Rolland et al. 2014		
+MI:0953(polymerization)	non-binary	MI:0953	MI:0953	MI:0401	1	Rolland et al. 2014		
+MI:0963(interactome parallel affinity capture)	non-binary	MI:0004	MI:0400	MI:0401	3	PSI-MI controlled Vocabulary		
+MI:0968(biosensor)	non-binary	MI:0968	MI:0968	MI:0013	5	Rolland et al. 2014		
+MI:0969(bio-layer interferometry)	non-binary	MI:0969	MI:0968	MI:0013	59	Rolland et al. 2014		
+MI:0979(oxidoreductase assay)	non-binary	MI:0979	MI:0415	MI:0401	1	PSI-MI controlled Vocabulary		
+MI:0982(electrophoretic mobility-based method)	non-binary	MI:0982	MI:0982	MI:0401	16	Rolland et al. 2014		
+MI:0984(deamination assay)	non-binary	MI:0984	MI:0415	MI:0401	1	PSI-MI controlled Vocabulary		
+MI:0990(cleavage assay)	non-binary	MI:0990	MI:0415	MI:0401	2	Rolland et al. 2014		
+MI:0997(ubiquitinase assay)	non-binary	MI:0997	MI:0415	MI:0401	11	PSI-MI controlled Vocabulary		
+MI:1016(fluorescence recovery after photobleaching)	non-binary	MI:1016	MI:0051	MI:0013	9	PSI-MI controlled Vocabulary		
+MI:1017(rna immunoprecipitation)	invalid	MI:0004	MI:0400	MI:0401	1	PSI-MI controlled Vocabulary		
+MI:1022(field flow fractionation)	non-binary	MI:1022	MI:0027	MI:0401	4	Rolland et al. 2014		
+MI:1024(scanning electron microscopy)	non-binary	MI:1024	MI:0040	MI:0428	3	PSI-MI controlled Vocabulary		
+MI:1037(Split renilla luciferase complementation)	binary	MI:1037	MI:1203	MI:0090	2	Rolland et al. 2014		
+MI:1103(solution state nmr)	non-binary	MI:1103	MI:0077	MI:0013	11	Rolland et al. 2014		
+MI:1104(solid state nmr)	non-binary	MI:1104	MI:0077	MI:0013	1	Rolland et al. 2014		
+MI:1112(two hybrid prey pooling approach)	binary	MI:0018	MI:0232	MI:0090	13880	Rolland et al. 2014		
+MI:1113(two hybrid bait and prey pooling approach)	binary	MI:0018	MI:0232	MI:0090	705	PSI-MI controlled Vocabulary		
+MI:1138(decarboxylation assay)	non-binary	MI:1138	MI:0415	MI:0401	4	PSI-MI controlled Vocabulary		
+MI:1203(split luciferase complementation)	binary	MI:1203	MI:1203	MI:0090	110	PSI-MI controlled Vocabulary		
+MI:1204(split firefly luciferase complementation)	binary	MI:1204	MI:1203	MI:0090	5	Rolland et al. 2014		
+MI:1232(aggregation assay)	invalid	MI:1232	MI:1232	MI:0401	9	PSI-MI controlled Vocabulary		
+MI:1235(thermal shift binding)	non-binary	MI:1235	MI:1235	MI:0013	18	PSI-MI controlled Vocabulary		
+MI:1246(ion mobility mass spectrometry of complexes)	non-binary	MI:0069	MI:0943	MI:0013	3	Rolland et al. 2014		
+MI:1247(microscale thermophoresis)	non-binary	MI:1247	MI:1247	MI:0013	37	Rolland et al. 2014		
+MI:1311(differential scanning calorimetry)	non-binary	MI:1311	MI:1311	MI:0013	5	Rolland et al. 2014		
+MI:1313(bioid)	non-binary	MI:1313	MI:1313	MI:0401	21750	Rolland et al. 2014		
+MI:1313(proximity labelling technology)	non-binary	MI:1313	MI:1313	MI:0401	1	Rolland et al. 2014		
+MI:1314(proximity-dependent biotin identification)	non-binary	MI:1313	MI:1313	MI:0401	22049	PSI-MI controlled Vocabulary		
+MI:1354(lipase assay)	invalid	MI:0990	MI:0415	MI:0401	1	PSI-MI controlled Vocabulary		
+MI:1356(validated two hybrid)	binary	MI:0018	MI:0232	MI:0090	14925	PSI-MI controlled Vocabulary		
+MI:2189(avexis)	non-binary	MI:0892	MI:0400	MI:0401	10	PSI-MI controlled Vocabulary		
+MI:2215(barcode fusion genetics two hybrid)	binary	MI:0018	MI:0232	MI:0090	679	PSI-MI controlled Vocabulary		
+MI:2289(virotrap)	binary	MI:2289	MI:2289	MI:0401	552	PSI-MI controlled Vocabulary		
+MI:2339(electron microscopy 3D single particle reconstruction)	non-binary	MI:0020	MI:0040	MI:0428	4	PSI-MI controlled Vocabulary		
