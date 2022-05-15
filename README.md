@@ -17,7 +17,7 @@ optimal_inflation.R
 cat ../intermediate/batch_MCL_out/out.HUMPPI2022.I228 | awk -F '\t' -v OFS='\t' '{for (i=1; i<=NF;i++) print NR, $i}' | sed '1i Module\tGene' > ../result/Module_members.txt
 python node_property.py ../intermediate/module_associations.txt module
 
-# GO and immune-related processes enrichment analysis
+## GO and immune-related processes enrichment analysis
 Rscript --vanilla module_Function_enrichment.R
 Rscript --vanilla module_Immunity_enrichment.R
 
