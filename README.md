@@ -1,6 +1,28 @@
 # HUMPPI-2022
 The immune system is a highly networked and complex system, which evolves constantly under the interaction with pathogens. In this study, a high-quality human PPIs network was constructed. Based on this, network properties of the immune system and virus-human interactions were systematically investigated. Additionally, age effect was explored from the view of the host network for immune-related genes and virally-targeted genes during evolution. The unique aspects of SARS-Cov-2 from the view of host network were also studied. Those investigations are helpful for better understanding the composition and evolution of human immune system, and the pathogenesis of viruses.
 
+## Requirements
+### Python 3.7:
+pandas
+numpy
+networkx
+collections
+decimal
+matplotlib
+itertools
+multiprocessing
+### R
+tidyverse
+RColorBrewer
+ggtree
+ggsignif
+ggpubr
+ggpmisc
+clusterProfiler
+plyr
+cowplot
+Vennerable
+
 cd src/
 ## Construction of a high-quality human protein-protein network
 ppi_integration.ipynb
