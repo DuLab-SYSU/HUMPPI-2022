@@ -11,7 +11,7 @@ decimal
 matplotlib
 itertools
 multiprocessing
-### R
+### R:
 tidyverse
 RColorBrewer
 ggtree
